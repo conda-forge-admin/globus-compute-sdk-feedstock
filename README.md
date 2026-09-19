@@ -198,6 +198,3 @@ Feedstock Maintainers
 * [@ryanchard](https://github.com/ryanchard/)
 * [@yadudoc](https://github.com/yadudoc/)
 
-
-<!-- dummy commit to enable rerendering -->
-
